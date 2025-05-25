@@ -38,7 +38,7 @@ int main()
 
     //printf("\nTiempo que tardo en darse el ordenamiento: %lld\n", segFin - segIni); //EN EL FOR PONER NUMEROS GRANDES EJEMPLO 10000 PARA QUE TARDE ALGUNOS SEGUNDOS
 
-    puts("\nDespués de ordenar:\t");
+    puts("\nDespuÃ©s de ordenar:\t");
     vectorMostrar(&vector);
 
     vectorDestruir(&vector);
