@@ -10,7 +10,7 @@ void printVector(int* vec, size_t ce);
 
 int main()
 {
-    // Change the code page to support spanish characters in Windows terminal
+    // Change the code page to support spanish characters in Windows terminal HOLA COMO ANDAN
     system("chcp 65001 > nul");
 
     Vector vector;
